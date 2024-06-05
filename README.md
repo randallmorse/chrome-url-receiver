@@ -2,7 +2,7 @@
 
 Test harness for chrome URL recorder
 
-[GitHub Repository](https://github.com/randallmorse/chrome-url-recorder) - https://github.com/randallmorse/chrome-url-recorder
+https://github.com/randallmorse/chrome-url-recorder
 
 ## Building and Running with Docker
 
