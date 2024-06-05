@@ -1,6 +1,3 @@
-Certainly! Here’s the rewritten content in Markdown format:
-
-```markdown
 # chrome-url-receiver
 
 Test harness for chrome URL recorder
